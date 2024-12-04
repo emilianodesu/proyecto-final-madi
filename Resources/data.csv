@@ -743,7 +743,7 @@ id,estado,antiguedad,modalidad,value
 742,Ciudad de México,27.0,a.	Presencial,Administración de tecnología de información y comunicaciones
 743,Zacatecas,31.0,a.	Presencial,Reincorporación al padrón electoral
 744,Chiapas,1.0,b.	Distancia,Aplicación de metodología estadística y/o demográfica
-745,Veracruz,331.0,b.	Distancia,Operación de las comisiones de vigilancia del registro federal de electores
+745,Veracruz,33.0,b.	Distancia,Operación de las comisiones de vigilancia del registro federal de electores
 746,Nuevo León,0.0,c.	Mixta,Administración de tecnología de información y comunicaciones
 747,México,30.0,b.	Distancia,"Ubicación, equipamiento e instalación de casillas o su equivalente en los distintos tipos de elección o procesos de participación ciudadana"
 748,Yucatán,1.5,c.	Mixta,"Diseño, mejora y producción de documentación electoral"
@@ -2874,7 +2874,7 @@ id,estado,antiguedad,modalidad,value
 742,Ciudad de México,27.0,a.	Presencial,Administración de los tiempos del estado en radio y televisión
 743,Zacatecas,31.0,a.	Presencial,Diseño de programas de capacitación
 744,Chiapas,1.0,b.	Distancia,Administración de base de datos
-745,Veracruz,331.0,b.	Distancia,Operación de módulos de atención ciudadana
+745,Veracruz,33.0,b.	Distancia,Operación de módulos de atención ciudadana
 746,Nuevo León,0.0,c.	Mixta,"Seguimiento de planes, programas y proyectos"
 747,México,30.0,b.	Distancia,Atención de asuntos jurídicos
 748,Yucatán,1.5,c.	Mixta,"Diseño, mejora y producción de material electoral"
@@ -4835,7 +4835,7 @@ id,estado,antiguedad,modalidad,value
 742,Ciudad de México,27.0,a.	Presencial,Ejecución de los procedimientos para administrar los tiempos del estado en materia de radio y televisión
 743,Zacatecas,31.0,a.	Presencial,Operación de módulos de atención ciudadana
 744,Chiapas,1.0,b.	Distancia,Depuración del padrón electoral
-745,Veracruz,331.0,b.	Distancia,Depuración del padrón electoral
+745,Veracruz,33.0,b.	Distancia,Depuración del padrón electoral
 746,Nuevo León,0.0,c.	Mixta,"Evaluación de planes, programas y proyectos"
 747,México,30.0,b.	Distancia,Depuración del padrón electoral
 748,Yucatán,1.5,c.	Mixta,Diseño de programas de capacitación
